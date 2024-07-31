@@ -249,6 +249,7 @@
 - [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
 - [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon]
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记应用程序。
+- [Kaas](https://github.com/0xfrankz/Kaas) - 跨平台的语言大模型客户端，支持OpenAI ChatGPT, Anthropic Claude, Microsoft Azure等服务商，专注于隐私及生产力提升。
 - [KatMouse](http://www.ehiti.de/katmouse/) - 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口（类似 macOS 和 Linux 上的效果）。 ![Freeware][Freeware Icon]
 - [Keypirinha](http://keypirinha.com/) - 一个提供给Windows键盘党的快速启动器。你可以把它当成 *Launchy* 的替代品和 *Alfred* 的表兄弟。![Freeware][Freeware Icon]
 - [Launchy](http://www.launchy.net/) - 开源快捷键启动器。 [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
